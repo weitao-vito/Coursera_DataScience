@@ -1,1 +1,1 @@
-This is branch 1.  Now I have made a change in 2nd branch.
+This is branch 1.  Now I have made a change in 2nd branch.  Now I add another change in 3rd branch.
